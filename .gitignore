@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#the changes to newly created branch
 
 # dependencies
 node_modules
